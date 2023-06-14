@@ -1,0 +1,17 @@
+{
+  "name": "kick-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
